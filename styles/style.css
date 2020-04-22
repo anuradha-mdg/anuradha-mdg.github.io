@@ -14,3 +14,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+p
+{
+   color: #ffffff;
+    text-align: center;
+	text-shadow: 2px 2px;
+	font-size:30px;
+   
+}
